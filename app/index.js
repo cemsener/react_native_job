@@ -18,10 +18,16 @@ const Home = () => {
           headerStyle: { backgroundColor: COLORS.lightWhite },
           headerShadowVisible: false,
           headerLeft: () => (
-            <ScreenHeaderBtn iconUrl={icons.menu} dimensions="60%" />
+            <ScreenHeaderBtn
+              iconUrl={require("../assets/icons/menu.png")}
+              dimension="60%"
+            />
           ),
           headerRight: () => (
-            <ScreenHeaderBtn iconUrl={images.kemal} dimensions="100%" />
+            <ScreenHeaderBtn
+              iconUrl={require("../assets/images/kemal.jpg")}
+              dimension="100%"
+            />
           ),
           headerTitle: "",
         }}
