@@ -13,5 +13,5 @@ npx create-expo-app -e with-router
 - [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
 
 
-Proje Linki: https://expo.dev/accounts/cemsener/projects/cemsener/updates/d4331722-eb68-4b5e-ae23-d45ee3a1457a 
-Linkin çalışması için Expo uygulmasının telefonuzda yüklü olması gerekiyor
+Proje Linki: https://expo.dev/accounts/cemsener/projects/cemsener/updates/d4331722-eb68-4b5e-ae23-d45ee3a1457a
+\nLinkin çalışması için Expo uygulmasının telefonuzda yüklü olması gerekiyor
