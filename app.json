@@ -8,6 +8,23 @@
       "expo-router"
     ],
     "name": "react_native_job",
-    "slug": "react_native_job"
+    "slug": "cemsener",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "28a5ea0f-0a35-4313-94f9-a8a55f98f4a0"
+      }
+    },
+    "owner": "cemsener",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/28a5ea0f-0a35-4313-94f9-a8a55f98f4a0"
+    },
+    "android": {},
+    "ios": {}
   }
 }
